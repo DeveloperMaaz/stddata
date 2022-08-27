@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "231588318094",
+    "project_id": "printdata-ffe55",
+    "storage_bucket": "printdata-ffe55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231588318094:android:9a41c5574796e6d66bf2df",
+        "android_client_info": {
+          "package_name": "com.example.stddata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231588318094-k116n9jv9qsdvd77ml34uo4m68857o2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stddata",
+            "certificate_hash": "fadfacd81dfc090cef0be5817273412fe39eef2a"
+          }
+        },
+        {
+          "client_id": "231588318094-mro0vdr33bjqpisg7vvi3ou4a2dpts0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7oecJYDlzoqbtX7i3puRdus_ca24Lfms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231588318094-mro0vdr33bjqpisg7vvi3ou4a2dpts0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
